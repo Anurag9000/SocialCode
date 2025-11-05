@@ -1,0 +1,6 @@
+rank,team_ids,team_names,goodness,coverage,k_robustness,redundancy,set_size
+1,S1,Asha,0.4375,0.0,0.0,0.0,0.25
+2,S3,Farida,0.4375,0.0,0.0,0.0,0.25
+3,S4,Imran,0.4375,0.0,0.0,0.0,0.25
+4,S2,Ravi,0.4375,0.0,0.0,0.0,0.25
+5,S5,Kiran,0.4375,0.0,0.0,0.0,0.25

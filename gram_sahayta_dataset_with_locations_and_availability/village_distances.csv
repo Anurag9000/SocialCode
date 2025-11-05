@@ -1,0 +1,191 @@
+village_a,village_b,distance_km,travel_time_min
+Rampur Gram Panchayat,Bhavani Kheda,2.0,5
+Rampur Gram Panchayat,Chitrani Block,46.5,91
+Rampur Gram Panchayat,Saraswati Nagar,59.1,120
+Rampur Gram Panchayat,Nirmalgaon,43.0,82
+Rampur Gram Panchayat,Bhagirathi Pur,28.2,56
+Rampur Gram Panchayat,Kaveri Tanda,44.8,88
+Rampur Gram Panchayat,Shivapuram,25.7,48
+Rampur Gram Panchayat,Lakshmipur,27.8,54
+Rampur Gram Panchayat,Ganga Khand,23.1,52
+Rampur Gram Panchayat,Yamuna Kheda,25.3,57
+Rampur Gram Panchayat,Tulsi Gram,32.7,62
+Rampur Gram Panchayat,Shanti Nagar Panchayat,45.7,88
+Rampur Gram Panchayat,Hariyali Dham,24.6,48
+Rampur Gram Panchayat,Krishi Nagar,20.7,41
+Rampur Gram Panchayat,Suryapur,9.6,27
+Rampur Gram Panchayat,Neelgaon,14.3,38
+Rampur Gram Panchayat,Panchvati Kalan,14.7,38
+Rampur Gram Panchayat,Devnagar,34.8,75
+Rampur Gram Panchayat,Mahuli Panchayat,21.3,51
+Bhavani Kheda,Chitrani Block,57.5,123
+Bhavani Kheda,Saraswati Nagar,6.0,12
+Bhavani Kheda,Nirmalgaon,24.3,53
+Bhavani Kheda,Bhagirathi Pur,20.5,47
+Bhavani Kheda,Kaveri Tanda,41.2,80
+Bhavani Kheda,Shivapuram,42.2,83
+Bhavani Kheda,Lakshmipur,3.4,12
+Bhavani Kheda,Ganga Khand,26.1,57
+Bhavani Kheda,Yamuna Kheda,4.0,5
+Bhavani Kheda,Tulsi Gram,20.4,36
+Bhavani Kheda,Shanti Nagar Panchayat,53.6,113
+Bhavani Kheda,Hariyali Dham,52.9,103
+Bhavani Kheda,Krishi Nagar,36.7,69
+Bhavani Kheda,Suryapur,6.7,19
+Bhavani Kheda,Neelgaon,24.9,45
+Bhavani Kheda,Panchvati Kalan,52.0,109
+Bhavani Kheda,Devnagar,37.9,72
+Bhavani Kheda,Mahuli Panchayat,39.7,83
+Chitrani Block,Saraswati Nagar,48.1,102
+Chitrani Block,Nirmalgaon,7.2,11
+Chitrani Block,Bhagirathi Pur,45.7,98
+Chitrani Block,Kaveri Tanda,19.1,39
+Chitrani Block,Shivapuram,6.5,15
+Chitrani Block,Lakshmipur,52.7,107
+Chitrani Block,Ganga Khand,19.9,38
+Chitrani Block,Yamuna Kheda,55.8,115
+Chitrani Block,Tulsi Gram,26.6,48
+Chitrani Block,Shanti Nagar Panchayat,52.2,104
+Chitrani Block,Hariyali Dham,57.1,114
+Chitrani Block,Krishi Nagar,48.6,93
+Chitrani Block,Suryapur,13.6,26
+Chitrani Block,Neelgaon,15.7,27
+Chitrani Block,Panchvati Kalan,57.0,116
+Chitrani Block,Devnagar,57.4,114
+Chitrani Block,Mahuli Panchayat,51.9,103
+Saraswati Nagar,Nirmalgaon,44.7,90
+Saraswati Nagar,Bhagirathi Pur,4.7,17
+Saraswati Nagar,Kaveri Tanda,43.0,94
+Saraswati Nagar,Shivapuram,52.2,103
+Saraswati Nagar,Lakshmipur,18.4,42
+Saraswati Nagar,Ganga Khand,44.4,88
+Saraswati Nagar,Yamuna Kheda,6.6,10
+Saraswati Nagar,Tulsi Gram,58.2,122
+Saraswati Nagar,Shanti Nagar Panchayat,47.2,94
+Saraswati Nagar,Hariyali Dham,21.4,52
+Saraswati Nagar,Krishi Nagar,18.5,33
+Saraswati Nagar,Suryapur,44.6,96
+Saraswati Nagar,Neelgaon,51.9,101
+Saraswati Nagar,Panchvati Kalan,59.2,115
+Saraswati Nagar,Devnagar,46.6,97
+Saraswati Nagar,Mahuli Panchayat,60.0,124
+Nirmalgaon,Bhagirathi Pur,40.5,84
+Nirmalgaon,Kaveri Tanda,5.4,10
+Nirmalgaon,Shivapuram,25.5,57
+Nirmalgaon,Lakshmipur,3.3,5
+Nirmalgaon,Ganga Khand,45.3,96
+Nirmalgaon,Yamuna Kheda,3.6,7
+Nirmalgaon,Tulsi Gram,27.5,64
+Nirmalgaon,Shanti Nagar Panchayat,10.9,21
+Nirmalgaon,Hariyali Dham,51.0,97
+Nirmalgaon,Krishi Nagar,21.5,45
+Nirmalgaon,Suryapur,10.5,20
+Nirmalgaon,Neelgaon,11.9,26
+Nirmalgaon,Panchvati Kalan,52.5,106
+Nirmalgaon,Devnagar,55.4,108
+Nirmalgaon,Mahuli Panchayat,5.8,7
+Bhagirathi Pur,Kaveri Tanda,57.7,111
+Bhagirathi Pur,Shivapuram,50.6,96
+Bhagirathi Pur,Lakshmipur,31.5,70
+Bhagirathi Pur,Ganga Khand,46.5,93
+Bhagirathi Pur,Yamuna Kheda,26.2,55
+Bhagirathi Pur,Tulsi Gram,34.4,75
+Bhagirathi Pur,Shanti Nagar Panchayat,38.5,77
+Bhagirathi Pur,Hariyali Dham,58.9,122
+Bhagirathi Pur,Krishi Nagar,29.4,63
+Bhagirathi Pur,Suryapur,22.1,45
+Bhagirathi Pur,Neelgaon,48.1,94
+Bhagirathi Pur,Panchvati Kalan,57.5,111
+Bhagirathi Pur,Devnagar,31.4,66
+Bhagirathi Pur,Mahuli Panchayat,43.6,86
+Kaveri Tanda,Shivapuram,21.3,48
+Kaveri Tanda,Lakshmipur,14.1,27
+Kaveri Tanda,Ganga Khand,48.8,103
+Kaveri Tanda,Yamuna Kheda,40.4,82
+Kaveri Tanda,Tulsi Gram,3.6,5
+Kaveri Tanda,Shanti Nagar Panchayat,25.5,58
+Kaveri Tanda,Hariyali Dham,19.9,38
+Kaveri Tanda,Krishi Nagar,4.9,18
+Kaveri Tanda,Suryapur,36.4,71
+Kaveri Tanda,Neelgaon,33.6,68
+Kaveri Tanda,Panchvati Kalan,57.1,113
+Kaveri Tanda,Devnagar,50.4,101
+Kaveri Tanda,Mahuli Panchayat,29.9,68
+Shivapuram,Lakshmipur,2.4,13
+Shivapuram,Ganga Khand,52.6,106
+Shivapuram,Yamuna Kheda,11.9,28
+Shivapuram,Tulsi Gram,58.4,112
+Shivapuram,Shanti Nagar Panchayat,57.8,124
+Shivapuram,Hariyali Dham,49.7,107
+Shivapuram,Krishi Nagar,5.7,9
+Shivapuram,Suryapur,36.8,74
+Shivapuram,Neelgaon,19.6,37
+Shivapuram,Panchvati Kalan,33.0,69
+Shivapuram,Devnagar,5.3,11
+Shivapuram,Mahuli Panchayat,13.8,26
+Lakshmipur,Ganga Khand,43.2,94
+Lakshmipur,Yamuna Kheda,35.3,75
+Lakshmipur,Tulsi Gram,52.3,102
+Lakshmipur,Shanti Nagar Panchayat,30.5,64
+Lakshmipur,Hariyali Dham,45.5,86
+Lakshmipur,Krishi Nagar,42.5,92
+Lakshmipur,Suryapur,31.6,72
+Lakshmipur,Neelgaon,7.8,19
+Lakshmipur,Panchvati Kalan,38.5,82
+Lakshmipur,Devnagar,46.5,90
+Lakshmipur,Mahuli Panchayat,49.4,108
+Ganga Khand,Yamuna Kheda,11.1,31
+Ganga Khand,Tulsi Gram,16.9,40
+Ganga Khand,Shanti Nagar Panchayat,30.2,67
+Ganga Khand,Hariyali Dham,50.5,97
+Ganga Khand,Krishi Nagar,53.7,117
+Ganga Khand,Suryapur,37.6,81
+Ganga Khand,Neelgaon,26.7,56
+Ganga Khand,Panchvati Kalan,10.4,29
+Ganga Khand,Devnagar,15.0,35
+Ganga Khand,Mahuli Panchayat,39.5,88
+Yamuna Kheda,Tulsi Gram,32.4,74
+Yamuna Kheda,Shanti Nagar Panchayat,46.9,93
+Yamuna Kheda,Hariyali Dham,22.0,48
+Yamuna Kheda,Krishi Nagar,3.8,11
+Yamuna Kheda,Suryapur,48.9,101
+Yamuna Kheda,Neelgaon,49.8,102
+Yamuna Kheda,Panchvati Kalan,29.8,69
+Yamuna Kheda,Devnagar,3.8,6
+Yamuna Kheda,Mahuli Panchayat,18.0,36
+Tulsi Gram,Shanti Nagar Panchayat,34.3,66
+Tulsi Gram,Hariyali Dham,51.5,98
+Tulsi Gram,Krishi Nagar,3.2,5
+Tulsi Gram,Suryapur,4.9,9
+Tulsi Gram,Neelgaon,4.8,6
+Tulsi Gram,Panchvati Kalan,27.7,62
+Tulsi Gram,Devnagar,13.2,27
+Tulsi Gram,Mahuli Panchayat,24.3,44
+Shanti Nagar Panchayat,Hariyali Dham,23.8,43
+Shanti Nagar Panchayat,Krishi Nagar,23.4,52
+Shanti Nagar Panchayat,Suryapur,40.3,85
+Shanti Nagar Panchayat,Neelgaon,26.0,58
+Shanti Nagar Panchayat,Panchvati Kalan,59.1,118
+Shanti Nagar Panchayat,Devnagar,23.6,51
+Shanti Nagar Panchayat,Mahuli Panchayat,26.9,60
+Hariyali Dham,Krishi Nagar,22.6,41
+Hariyali Dham,Suryapur,25.3,45
+Hariyali Dham,Neelgaon,11.8,27
+Hariyali Dham,Panchvati Kalan,17.9,42
+Hariyali Dham,Devnagar,29.1,55
+Hariyali Dham,Mahuli Panchayat,25.2,48
+Krishi Nagar,Suryapur,31.0,68
+Krishi Nagar,Neelgaon,35.2,72
+Krishi Nagar,Panchvati Kalan,27.6,51
+Krishi Nagar,Devnagar,46.9,98
+Krishi Nagar,Mahuli Panchayat,29.9,58
+Suryapur,Neelgaon,11.9,24
+Suryapur,Panchvati Kalan,45.3,99
+Suryapur,Devnagar,11.4,21
+Suryapur,Mahuli Panchayat,17.0,39
+Neelgaon,Panchvati Kalan,36.0,73
+Neelgaon,Devnagar,2.5,10
+Neelgaon,Mahuli Panchayat,34.5,70
+Panchvati Kalan,Devnagar,47.1,100
+Panchvati Kalan,Mahuli Panchayat,28.9,53
+Devnagar,Mahuli Panchayat,40.0,86

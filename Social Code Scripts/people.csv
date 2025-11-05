@@ -1,0 +1,6 @@
+person_id,name,text,willingness_eff,willingness_bias
+S1,Asha,"She has experience with water quality assessment, river cleanup drives, and solid waste segregation. Worked on awareness campaigns and school WASH activities.",0.8,0.5
+S2,Ravi,"Mechanical engineering student skilled in pump repair, borewell maintenance, and basic plumbing. Also assisted in solar pump installation.",0.7,0.4
+S3,Farida,"Community outreach volunteer, SHG training, hygiene behavior change communication, and panchayat coordination.",0.9,0.3
+S4,Imran,"GIS mapping, drone-based data collection, and water body sediment analysis. Good with data visualization dashboards.",0.6,0.5
+S5,Kiran,"General coding and website development, less experience in field work. Basic data entry.",0.2,0.1

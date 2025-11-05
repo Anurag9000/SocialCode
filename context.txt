@@ -1,0 +1,624 @@
+11/4/25, 21:04 - Agrim Upadhyay Roommate: "Participants are allowed to choose any problem statement. Open Innovation is also allowed. Just make sure to enter all the updated details in the attendance form when it will be shared."
+11/4/25, 21:04 - Anurag Basistha: IDEA DEDO
+11/4/25, 21:04 - Anurag Basistha: AGRIM JI
+11/4/25, 21:04 - Anurag Basistha: SPP ME FULL AEN HAI
+11/4/25, 21:04 - Anurag Basistha: AAPKE
+11/4/25, 21:04 - Anurag Basistha: KAAM LAGAO
+11/4/25, 21:04 - Agrim Upadhyay Roommate: Sir sabh kuch to likh rkha hai inhone kya idea du
+11/4/25, 21:06 - Agrim Upadhyay Roommate: 9-10 ke beech ek form float hoga usme topic likhna hoga so gotta decide quick
+11/4/25, 21:09 - Anurag Basistha: Nahi like kaise banayenge implementation
+11/4/25, 21:10 - Anurag Basistha: Uske basis par decide karenge na
+11/4/25, 21:10 - Anurag Basistha: Kaunsa theme
+11/4/25, 21:10 - Anurag Basistha: Toh opinion do apne
+11/4/25, 21:13 - Anurag Basistha: Jo bhi banayenge js aur python par banaenge
+11/4/25, 21:13 - Anurag Basistha: SQL too maybe postgres etc
+11/4/25, 21:14 - Akshit CSD: Woh theek hai dekh lenge woh
+11/4/25, 21:14 - Anurag Basistha: Idea do
+11/4/25, 21:14 - Anurag Basistha: Kaunsa fav hai
+11/4/25, 21:14 - Anurag Basistha: And kaise banaoge
+11/4/25, 21:14 - Anurag Basistha: Unique
+11/4/25, 21:14 - Anurag Basistha: Stand out
+11/4/25, 21:14 - Anurag Basistha: Feature
+11/4/25, 21:14 - Anurag Basistha: Winnable feature
+11/4/25, 21:17 - Akshit CSD: Lets think
+11/4/25, 21:17 - Akshit CSD: Nss likes to outreach
+11/4/25, 21:18 - Akshit CSD: I think village one might be good
+11/4/25, 21:18 - Akshit CSD: We can add an AI chat bot to access all the features
+11/4/25, 21:18 - Akshit CSD: With hindi understanding
+11/4/25, 21:18 - Akshit CSD: Regional language support
+11/4/25, 21:21 - Akshit CSD: Here we can scrape gov site and get information on free education plans or scholarships
+11/4/25, 21:21 - Akshit CSD: ??
+11/4/25, 21:22 - Agrim Upadhyay Roommate: <Media omitted>
+11/4/25, 21:24 - Akshit CSD: Ji
+11/4/25, 21:31 - Agrim Upadhyay Roommate: Some sort of offline functionality bhi daal sakte since no or poor internet in villages
+11/4/25, 21:32 - Agrim Upadhyay Roommate: Ki Bhai agar net nhi to bhi use kar sakte
+11/4/25, 21:32 - Akshit CSD: everything requires net tbh
+11/4/25, 21:35 - Agrim Upadhyay Roommate: Like village needs something sms bhej do if net not working
+11/4/25, 21:45 - Akshit CSD: @⁨Anurag Basistha⁩ Any Thoughts dawg
+11/4/25, 21:45 - Akshit CSD: We can maybe add an SLM ??
+11/4/25, 21:45 - Akshit CSD: idk might be overkill actually
+11/4/25, 21:52 - Anurag Basistha: 2nd
+11/4/25, 21:52 - Anurag Basistha: kr
+11/4/25, 21:52 - Anurag Basistha: ha well use slm and llm
+11/4/25, 21:52 - Anurag Basistha: register second
+11/4/25, 21:52 - Anurag Basistha: im ideating
+11/4/25, 21:52 - Anurag Basistha: brb in 5 mins
+11/4/25, 21:53 - Anurag Basistha: 2nd krdo leme
+11/4/25, 21:53 - Anurag Basistha: cook
+11/4/25, 21:53 - Anurag Basistha: thiknk
+11/4/25, 21:53 - Anurag Basistha: am cooking
+11/4/25, 21:53 - Anurag Basistha: well use ai
+11/4/25, 21:53 - Anurag Basistha: embeddings
+11/4/25, 21:53 - Anurag Basistha: to match and map
+11/4/25, 21:55 - Akshit CSD: 2nd or 3rd
+11/4/25, 22:08 - Anurag Basistha: 3,
+11/4/25, 22:09 - Anurag Basistha: gram]\
+11/4/25, 22:09 - Anurag Basistha: jo bhi
+11/4/25, 22:09 - Anurag Basistha: 3rd
+11/4/25, 22:09 - Anurag Basistha: i mean
+11/4/25, 22:09 - Anurag Basistha: 3rd
+11/4/25, 22:09 - Anurag Basistha: fuyck
+11/4/25, 22:11 - Anurag Basistha: 
+11/4/25, 22:15 - Agrim Upadhyay Roommate: 
+11/4/25, 22:15 - Agrim Upadhyay Roommate: <Media omitted>
+11/4/25, 22:15 - Agrim Upadhyay Roommate: <Media omitted>
+11/4/25, 22:15 - Agrim Upadhyay Roommate: Naam ki spelling check karlo aur problem statement mein kya likhna hai
+11/4/25, 22:15 - Anurag Basistha: all gud
+11/4/25, 22:16 - Anurag Basistha: enter krde
+11/4/25, 22:16 - Anurag Basistha: proobels tatement
+11/4/25, 22:16 - Anurag Basistha: theme 3
+11/4/25, 22:16 - Agrim Upadhyay Roommate: Prob statement mein kya likhna like theme 3 to upar select karliye
+11/4/25, 22:16 - Anurag Basistha: same likhde
+11/4/25, 22:17 - Akshit CSD: Na let mem ask
+11/4/25, 22:17 - Anurag Basistha: oke
+11/4/25, 22:23 - Anurag Basistha: <Media omitted>
+11/4/25, 22:24 - Anurag Basistha: we can also use ai based search engine for identifying problems on the web
+11/4/25, 22:24 - Anurag Basistha: nah but
+11/4/25, 22:24 - Anurag Basistha: doesnt work for small villages
+11/4/25, 22:24 - Anurag Basistha: nvm scratch that
+11/4/25, 22:29 - Anurag Basistha: @⁨Agrim Upadhyay Roommate⁩ @⁨Akshit CSD⁩ read
+11/4/25, 22:29 - Anurag Basistha: thoughts
+11/4/25, 22:31 - Akshit CSD: Yes Sir reading
+11/4/25, 22:35 - Akshit CSD: I liked it
+11/4/25, 22:35 - Akshit CSD: Exactly what we want
+11/4/25, 22:35 - Agrim Upadhyay Roommate: Why
+11/4/25, 22:35 - Akshit CSD: I think it can be extended to our problem statement
+11/4/25, 22:36 - Anurag Basistha: yepp
+11/4/25, 22:36 - Anurag Basistha: exactly
+11/4/25, 22:36 - Anurag Basistha: lets do this then
+11/4/25, 22:36 - Akshit CSD: Cool
+11/4/25, 22:37 - Anurag Basistha: do it
+11/4/25, 22:37 - Akshit CSD: I didn't get this part ?
+11/4/25, 22:37 - Akshit CSD: Problems ?
+11/4/25, 22:37 - Anurag Basistha: small villages me
+11/4/25, 22:37 - Anurag Basistha: net par kuchh results nahi aega
+11/4/25, 22:37 - Anurag Basistha: on searching
+11/4/25, 22:37 - Anurag Basistha: on internet
+11/4/25, 22:38 - Agrim Upadhyay Roommate: Pehle form bharlo ...prob statement pta chali?
+11/4/25, 22:38 - Akshit CSD: I mean my friend said they just copy pasted the exact thing they gave
+11/4/25, 22:38 - Akshit CSD: Tu bhi karde 
+Aisa kar 
+Ummm
+11/4/25, 22:39 - Anurag Basistha: dont fill in
+11/4/25, 22:39 - Anurag Basistha: exact paper na
+11/4/25, 22:39 - Anurag Basistha: me
+11/4/25, 22:39 - Anurag Basistha: do creativity
+11/4/25, 22:39 - Anurag Basistha: ask gpt
+11/4/25, 22:39 - Anurag Basistha: for names
+11/4/25, 22:39 - Akshit CSD: Add AI based Recommendation System for Proper Volunteer and Sutdent connection
+11/4/25, 22:39 - Akshit CSD: Aisa kuch
+11/4/25, 22:39 - Anurag Basistha: wait
+11/4/25, 22:39 - Anurag Basistha: leme
+11/4/25, 22:39 - Anurag Basistha: this is recommendation only wait
+11/4/25, 22:41 - Anurag Basistha: Here are **clever, memorable, and thematically strong names** for your **Gram-Connect–inspired AI matching project**, balancing *creativity*, *seriousness*, and *impact potential*:
+
+---
+
+### ⚙️ **Tech-Elegant Names**
+
+| Name                    | Meaning / Edge                                                                          |
+| ----------------------- | --------------------------------------------------------------------------------------- |
+| **SkillSync**           | Clean, tech-friendly—implies perfect synchronization of skills and needs.               |
+| **NeuroServe**          | Evokes AI (“Neuro”) + community service (“Serve”)—smart and ethical.                    |
+| **KarmaNet**            | Catchy Indian-context pun: a network of good deeds—perfect for NSS.                     |
+| **PraNetra (प्रनेत्र)** | Sanskrit for *guiding vision*—represents AI guiding volunteers to where help is needed. |
+| **SevaLink**            | From “Seva” (service) + “Link”—sounds natural, directly tied to NSS values.             |
+| **Aidra**               | Short for *AI-driven Rural Assistance*; futuristic and minimalist.                      |
+| **GramAI**              | Direct, localized, instantly tells the purpose (AI for villages).                       |
+| **ServeSense**          | Suggests “sense of service” and also “AI sensing where service is needed.”              |
+| **SkillSutra**          | Playful yet elegant—Sanskrit-inspired, connecting skills with needs.                    |
+| **TeamDharma**          | “Righteous duty through teamwork”—carries cultural + moral gravity.                     |
+
+---
+
+### 🌱 **Impact-Driven / Humanitarian Names**
+
+| Name                  | Meaning / Edge                                                               |
+| --------------------- | ---------------------------------------------------------------------------- |
+| **SahayAI (सहाय)**    | “Sahay” = help in Hindi; AI for community help—simple, powerful.             |
+| **MitraMesh**         | “Mitra” = friend; AI-powered friend network for social good.                 |
+| **NSSphere**          | Wordplay on “sphere” (community) and “NSS.” Clean branding for campus usage. |
+| **LokAI**             | “Lok” = people; AI for the people—elegant and deeply rooted.                 |
+| **JanAI (जन-AI)**     | “Jan” = public; “JanAI” reads like “Jannay”—AI for citizens.                 |
+| **SamarthAI (समर्थ)** | Means “capable” or “empowered”—symbolizes enabling volunteers with AI.       |
+
+---
+
+### 🧠 **Recommendation (for blend of cleverness + gravitas)**
+
+> **“SahayAI: An Intelligent Volunteer–Need Matching Platform for Community Empowerment”**
+
+Why this stands out:
+
+* Simple yet culturally resonant.
+* Implies AI + compassion (fits NSS perfectly).
+* Instantly memorable for both hackathon judges and publication reviewers.
+* You can say in your pitch:
+
+  > “SahayAI derives from the Hindi word *‘Sahay’*—meaning help or assistance. It’s an AI-driven system that assists NSS units in intelligently connecting volunteer skills to real community needs.”
+
+---
+
+Would you like me to shortlist **3 final candidates** (with logo tagline + academic title version) for your submission and presentation slides?
+11/4/25, 22:41 - Anurag Basistha: select name
+11/4/25, 22:42 - Akshit CSD: I want to keep SkillSutra But
+11/4/25, 22:43 - Akshit CSD: Lets keep SkillSync or SahayAI
+11/4/25, 22:43 - Agrim Upadhyay Roommate: Problem statement mein solution dalte hai?
+11/4/25, 22:43 - Akshit CSD: Not really no
+11/4/25, 22:44 - Akshit CSD: Abbe problem statement par itna woh mat kar 
+Its the solution that matters
+11/4/25, 22:44 - Anurag Basistha: isko ye bta
+11/4/25, 22:44 - Anurag Basistha: likhna kya h
+11/4/25, 22:47 - Agrim Upadhyay Roommate: One of the core NSS goals is to adopt and
+assist villages in their sustainable
+development. However, identifying
+community needs and matching them
+with skilled student volunteers remains a
+disorganised, manual process. Currently,
+volunteers note issues (like broken
+infrastructure, lack of digital literacy, or
+need for extracurricular support) on
+paper, and there is no systematic way to
+connect these needs with college
+students who have the relevant skills. This
+leads to missed opportunities for
+meaningful engagement and inefficient
+use of campus talent. Ye daal rha mein( from slides)
+11/4/25, 22:55 - Akshit CSD: @⁨Anurag Basistha⁩ 
+So we need 
+1) frontend of app 
+2) Backend of app
+3) Model to extract keywords 
+4) This paper <This message was edited>
+11/4/25, 22:56 - Anurag Basistha: yes
+11/4/25, 22:56 - Anurag Basistha: understand from gpt thorougkly
+11/4/25, 22:56 - Anurag Basistha: the ULTRA framework
+11/4/25, 22:56 - Anurag Basistha: seemed v nice
+11/4/25, 22:56 - Anurag Basistha: we follow exactly that
+11/4/25, 22:56 - Akshit CSD: We also need the 3rd one
+11/4/25, 22:56 - Anurag Basistha: ?
+11/4/25, 22:56 - Anurag Basistha: i was thinkig
+11/4/25, 22:56 - Akshit CSD: Like when some volunteers put in the reqyirement
+11/4/25, 22:56 - Anurag Basistha: llms or mlms or slms work
+11/4/25, 22:56 - Anurag Basistha: and i was thinking maybe we could
+11/4/25, 22:57 - Anurag Basistha: map out embedding spaces
+11/4/25, 22:57 - Anurag Basistha: for similarity
+11/4/25, 22:57 - Anurag Basistha: of key query
+11/4/25, 22:57 - Akshit CSD: We need to extract the keyboards
+11/4/25, 22:57 - Anurag Basistha: something like transformers
+11/4/25, 22:57 - Anurag Basistha: internally
+11/4/25, 22:57 - Akshit CSD: Could work
+11/4/25, 22:57 - Akshit CSD: Sure
+11/4/25, 22:58 - Anurag Basistha: let me think
+11/4/25, 22:58 - Anurag Basistha: till then
+11/4/25, 22:58 - Anurag Basistha: fill out form
+11/4/25, 22:58 - Agrim Upadhyay Roommate: Bhar diya
+11/4/25, 22:59 - Anurag Basistha: kabtak
+11/4/25, 22:59 - Anurag Basistha: jage ho
+11/4/25, 23:01 - Akshit CSD: Jab tak tu bile
+11/4/25, 23:41 - Akshit CSD: We can combine both word embedding similarity and ULTRA for taxonomical similarity as well
+11/4/25, 23:41 - Akshit CSD: Wont matter much
+11/4/25, 23:41 - Akshit CSD: But fuck it
+11/4/25, 23:41 - Anurag Basistha: ++
+11/5/25, 00:29 - Akshit CSD: Hello
+11/5/25, 00:29 - Akshit CSD: Mar gaye kya sab
+11/5/25, 00:29 - Anurag Basistha: code it
+11/5/25, 00:29 - Anurag Basistha: tell some ai coder give paper
+11/5/25, 00:29 - Anurag Basistha: give question
+11/5/25, 00:29 - Anurag Basistha: code it
+11/5/25, 00:29 - Akshit CSD: Ohk
+11/5/25, 00:29 - Akshit CSD: we also need frontend
+11/5/25, 00:29 - Akshit CSD: and Backend
+11/5/25, 00:29 - Akshit CSD: Tu bana backend
+11/5/25, 00:30 - Akshit CSD: with Server and stuff I gues
+11/5/25, 00:30 - Anurag Basistha: ai
+11/5/25, 00:30 - Akshit CSD: haan woh toh karde
+11/5/25, 00:30 - Anurag Basistha: im reading more
+11/5/25, 00:30 - Anurag Basistha: u do
+11/5/25, 00:30 - Akshit CSD: what reading
+11/5/25, 00:31 - Akshit CSD: do hackathon first XD 👹
+11/5/25, 00:31 - Anurag Basistha: reading
+11/5/25, 00:31 - Anurag Basistha: papers
+11/5/25, 00:31 - Anurag Basistha: related to
+11/5/25, 00:31 - Anurag Basistha: doing thsi
+11/5/25, 00:31 - Anurag Basistha: idiot
+11/5/25, 00:31 - Akshit CSD: oki
+11/5/25, 00:31 - Akshit CSD: bhej mujhe bhi
+11/5/25, 00:32 - Anurag Basistha: dhundne dega
+11/5/25, 00:36 - Anurag Basistha: itna banao frontend backend
+11/5/25, 00:36 - Anurag Basistha: mai baaki socht
+11/5/25, 00:36 - Anurag Basistha: @⁨Akshit CSD⁩ @⁨Agrim Upadhyay Roommate⁩
+11/5/25, 00:36 - Anurag Basistha: one of u make front
+11/5/25, 00:36 - Akshit CSD: Ok
+11/5/25, 00:36 - Anurag Basistha: one make back
+11/5/25, 00:36 - Anurag Basistha: use
+11/5/25, 00:36 - Anurag Basistha: ai tools
+11/5/25, 00:36 - Anurag Basistha: idk ask ppl
+11/5/25, 00:36 - Akshit CSD: I make backend
+11/5/25, 00:36 - Anurag Basistha: who are expert
+11/5/25, 00:36 - Anurag Basistha: atr ai
+11/5/25, 00:36 - Akshit CSD: @⁨Agrim Upadhyay Roommate⁩ use boult to make frontend
+11/5/25, 00:37 - Agrim Upadhyay Roommate: okay try karta
+11/5/25, 00:37 - Anurag Basistha: read algo dhang se
+11/5/25, 00:37 - Anurag Basistha: doubt hoga to puchna
+11/5/25, 00:37 - Akshit CSD: Ok
+11/5/25, 00:58 - Anurag Basistha: Dimaag nahi chalra
+11/5/25, 00:58 - Anurag Basistha: kal subha aur padhunga
+11/5/25, 00:58 - Anurag Basistha: tabtak ye algo banao
+11/5/25, 00:58 - Anurag Basistha: ig this is enough for winning
+11/5/25, 00:58 - Anurag Basistha: but id improvise more
+11/5/25, 00:58 - Anurag Basistha: goodnight
+11/5/25, 00:59 - Anurag Basistha: make this by tom morning ig then well do more
+11/5/25, 01:07 - Anurag Basistha: text rkhio
+web ya sms
+image rkhio
+voice call rkhio
+call to llm llm can transcript
+11/5/25, 01:37 - Agrim Upadhyay Roommate: https://gram-connect-matchin-6lnb.bolt.host/
+11/5/25, 01:37 - Akshit CSD: Its great
+11/5/25, 01:37 - Akshit CSD: No need to scrap it
+11/5/25, 01:38 - Akshit CSD: Add a login to the Volunteer only for no w
+11/5/25, 01:38 - Akshit CSD: and create the query submission page
+11/5/25, 01:38 - Akshit CSD: that is it
+11/5/25, 01:38 - Akshit CSD: Baaki mein batata
+11/5/25, 01:38 - Akshit CSD: and student mein kya kar 
+Make a profile page where they have basic info like name and stuff 
+and skills but abhi skills mein kuch add mat karna
+11/5/25, 01:38 - Agrim Upadhyay Roommate: K
+11/5/25, 01:38 - Akshit CSD: Page is really good UI looks clean ag
+11/5/25, 02:56 - Agrim Upadhyay Roommate: <Media omitted>
+11/5/25, 02:56 - Agrim Upadhyay Roommate: <Media omitted>
+11/5/25, 02:56 - Agrim Upadhyay Roommate: <Media omitted>
+11/5/25, 08:43 - Anurag Basistha: Hi broskis
+11/5/25, 08:43 - Anurag Basistha: Just woke
+11/5/25, 08:43 - Anurag Basistha: Backend ban gya kya
+11/5/25, 08:43 - Anurag Basistha: And akshit did u think of how to add embedding spaces for searching query
+11/5/25, 08:44 - Anurag Basistha: WE don't need that alag se i think
+We can just use this paper
+
+Internally its doing the same
+11/5/25, 08:44 - Akshit CSD: No karta hun ye waala I slept at around 3!
+11/5/25, 08:44 - Anurag Basistha: No need.i was saying
+11/5/25, 08:44 - Anurag Basistha: Chod de
+11/5/25, 08:44 - Anurag Basistha: Normal isi paper ka backend bana le
+11/5/25, 08:44 - Anurag Basistha: Did u ask bhaiya
+11/5/25, 08:44 - Akshit CSD: Ok
+11/5/25, 08:44 - Anurag Basistha: What did he reply
+11/5/25, 08:44 - Akshit CSD: Haan bakchod hai sab bc
+11/5/25, 08:44 - Akshit CSD: Chutiyw mentors
+11/5/25, 08:45 - Akshit CSD: No reply from 3 of them
+11/5/25, 08:45 - Anurag Basistha: Bola kya
+11/5/25, 08:45 - Anurag Basistha: Woah
+11/5/25, 08:45 - Anurag Basistha: Woah
+11/5/25, 08:45 - Anurag Basistha: Woah
+11/5/25, 08:45 - Akshit CSD: 1 of them whicb answered dont know what to do
+11/5/25, 08:45 - Anurag Basistha: Wow
+11/5/25, 08:45 - Anurag Basistha: Lets do ours only i mean
+11/5/25, 08:45 - Anurag Basistha: Wo overkill is better than underkill
+11/5/25, 08:45 - Anurag Basistha: And can u tell hamara GDG wala kab hai
+Agentic ai langchain etx
+11/5/25, 08:45 - Anurag Basistha: Wo btaio
+11/5/25, 08:46 - Anurag Basistha: Mai nahake ata
+11/5/25, 09:57 - Anurag Basistha: helloooo
+11/5/25, 11:14 - Anurag Basistha: guys
+11/5/25, 11:15 - Anurag Basistha: @⁨Akshit CSD⁩ @⁨Agrim Upadhyay Roommate⁩
+11/5/25, 11:15 - Anurag Basistha: i found another GREAT PAPER
+11/5/25, 11:15 - Anurag Basistha: need u both to read this and think if we can integrate this
+11/5/25, 11:16 - Anurag Basistha: https://arxiv.org/pdf/2408.11510
+11/5/25, 11:16 - Anurag Basistha: and this
+https://arxiv.org/pdf/2203.15037
+11/5/25, 11:16 - Anurag Basistha: we must integrate these
+11/5/25, 11:29 - Akshit CSD: We need the dataset to train model tho
+11/5/25, 11:29 - Akshit CSD: We can write this in the PPT tho and explain
+11/5/25, 11:35 - Anurag Basistha: ask gpt
+11/5/25, 11:35 - Anurag Basistha: for dataset
+11/5/25, 11:35 - Anurag Basistha: ask mentor
+11/5/25, 11:49 - Akshit CSD: Theek
+11/5/25, 11:50 - Agrim Upadhyay Roommate: Is vale mein se agar willingness score vali cheez daal paye to daal diyo...past history se willingness score determine kar sakte
+11/5/25, 12:19 - Akshit CSD: Cool 
+Let me start on the ppt
+11/5/25, 12:19 - Akshit CSD: @⁨Agrim Upadhyay Roommate⁩ send me link
+11/5/25, 12:20 - Akshit CSD: Of boult
+11/5/25, 12:20 - Akshit CSD: @⁨Anurag Basistha⁩ sending u some scripts in 10 min
+Dekhlio
+11/5/25, 12:22 - Anurag Basistha: ok
+11/5/25, 12:25 - Agrim Upadhyay Roommate: https://bolt.new/~/sb1-lbpu7fza , try kario khul rha hai ya nhi
+11/5/25, 12:31 - Anurag Basistha: <Media omitted>
+11/5/25, 12:31 - Anurag Basistha: wtf
+11/5/25, 12:32 - Anurag Basistha: @⁨Akshit CSD⁩ backend bana kya
+make it all multimodal and ensure regional languages + voice text + image processing using clip or something
+11/5/25, 12:32 - Anurag Basistha: willingness score add krdio
+11/5/25, 12:33 - Akshit CSD: What the frack 
+Regional languages 
+Voice text ??
+11/5/25, 12:33 - Akshit CSD: Villager ui bhi banana hai ??
+11/5/25, 12:33 - Anurag Basistha: bana hi dete hai
+11/5/25, 12:33 - Anurag Basistha: bhot kam time lagega
+11/5/25, 12:33 - Anurag Basistha: gpt ko bolde bana dega
+11/5/25, 12:33 - Anurag Basistha: ye bta
+11/5/25, 12:33 - Anurag Basistha: model kaise train krega
+11/5/25, 12:33 - Akshit CSD: Ye sab front end ka hai
+11/5/25, 12:33 - Akshit CSD: @⁨Agrim Upadhyay Roommate⁩ add translation
+11/5/25, 12:34 - Anurag Basistha: why translation
+11/5/25, 12:34 - Anurag Basistha: let it all remain in regional language
+11/5/25, 12:34 - Anurag Basistha: + voice  + image feature
+11/5/25, 12:34 - Anurag Basistha: u can just upload image what is the dikkat
+11/5/25, 12:34 - Anurag Basistha: clip will give text in that embedding
+11/5/25, 12:34 - Anurag Basistha: backend se integrate to krna hoga n
+11/5/25, 12:34 - Anurag Basistha: a
+11/5/25, 12:34 - Akshit CSD: usme dikkat nahi honi chahiye
+11/5/25, 12:35 - Anurag Basistha: cool
+11/5/25, 12:35 - Akshit CSD: Local database kardete hai with students with their skills
+11/5/25, 12:35 - Anurag Basistha: ,
+11/5/25, 12:35 - Anurag Basistha: aur kya bolna thha
+11/5/25, 12:35 - Akshit CSD: and input aayega tab use dekh lenge Text process karnke
+11/5/25, 12:35 - Anurag Basistha: dekhna tum dono ye lagana hai ya nahi
+11/5/25, 12:35 - Anurag Basistha: https://chatgpt.com/share/690af73b-45f4-8013-8f01-8c75c9baf4cb
+11/5/25, 12:35 - Anurag Basistha: ye iss 90 page ahh paper ka crux hai
+11/5/25, 12:35 - Anurag Basistha: iska
+11/5/25, 12:35 - Anurag Basistha: dekhna
+11/5/25, 12:36 - Akshit CSD: problem is training
+11/5/25, 12:36 - Akshit CSD: we do not have data
+11/5/25, 12:36 - Akshit CSD: I think I need to generate data from GPT itself
+11/5/25, 12:36 - Anurag Basistha: yes
+11/5/25, 12:36 - Anurag Basistha: give me prompt
+11/5/25, 12:36 - Anurag Basistha: ill use
+11/5/25, 12:36 - Akshit CSD: Probably just to show
+11/5/25, 12:36 - Anurag Basistha: big brain gpt
+11/5/25, 12:36 - Anurag Basistha: to big brain data
+11/5/25, 12:36 - Akshit CSD: let me modify the script first to add the willingness score as wel
+11/5/25, 12:36 - Anurag Basistha: is backend python
+11/5/25, 12:36 - Anurag Basistha: or cpp
+11/5/25, 12:36 - Anurag Basistha: or what
+11/5/25, 12:36 - Akshit CSD: python
+11/5/25, 12:36 - Anurag Basistha: wow
+11/5/25, 12:37 - Anurag Basistha: noiceee
+11/5/25, 12:37 - Anurag Basistha: finally
+11/5/25, 12:37 - Akshit CSD: backend tu bana de 
+Aisa kar 
+Ya let me finish with the model scripts first
+11/5/25, 12:37 - Anurag Basistha: <Media omitted>
+11/5/25, 12:37 - Akshit CSD: Fir lets see
+11/5/25, 12:37 - Anurag Basistha: im trying to get a paper on
+11/5/25, 12:37 - Anurag Basistha: fairness
+11/5/25, 12:37 - Anurag Basistha: that will complete the entire thing
+11/5/25, 12:37 - Anurag Basistha: ye dekh na
+11/5/25, 12:37 - Anurag Basistha: btao
+11/5/25, 12:37 - Anurag Basistha: tum dono
+11/5/25, 12:37 - Anurag Basistha: apni rae
+11/5/25, 12:37 - Akshit CSD: I have no other option 
+I am not even sure cpp mein backend kaise Banega -_-
+11/5/25, 12:38 - Akshit CSD: feels like we are making shaadi.com for NSS
+11/5/25, 12:38 - Akshit CSD: Noice
+11/5/25, 12:38 - Anurag Basistha: ++
+11/5/25, 12:38 - Anurag Basistha: i mean
+11/5/25, 12:38 - Anurag Basistha: we can pitch this as startups
+11/5/25, 12:38 - Anurag Basistha: most startups are this
+11/5/25, 12:38 - Anurag Basistha: a particular algorithm
+11/5/25, 12:38 - Anurag Basistha: adapted for solving
+11/5/25, 12:38 - Anurag Basistha: a particular specific problem
+11/5/25, 12:38 - Anurag Basistha: given satisfying said constraints
+11/5/25, 12:38 - Anurag Basistha: algo remains same mostly
+11/5/25, 12:39 - Anurag Basistha: the crux of it lies on
+11/5/25, 12:39 - Anurag Basistha: adapting to problem statement
+11/5/25, 12:39 - Anurag Basistha: and making ppl believe in it
+11/5/25, 12:39 - Anurag Basistha: tinder but for disabled ppl
+11/5/25, 12:39 - Anurag Basistha: tinder but for rich ppl
+11/5/25, 12:39 - Anurag Basistha: MakeMyTrip but for rich ppl
+11/5/25, 12:39 - Anurag Basistha: so on
+11/5/25, 12:39 - Anurag Basistha: gotta sell it nicely
+11/5/25, 12:53 - Anurag Basistha: https://arxiv.org/pdf/2201.05646
+
+Make sure u implemented this algo only from the paper @⁨Akshit CSD⁩
+11/5/25, 12:56 - Anurag Basistha: @⁨Akshit CSD⁩ @⁨Agrim Upadhyay Roommate⁩ read this
+its v useful we should implement this too for stuff like conflict resolution of needs
+11/5/25, 12:56 - Akshit CSD: BKLLLLL phele bhej na ye
+11/5/25, 12:56 - Anurag Basistha: If a volunteer is in two teams whose tasks overlap in time, drop them from the lower-goodness team and recompute that team’s goodness.
+11/5/25, 12:56 - Anurag Basistha: just
+11/5/25, 12:56 - Anurag Basistha: add this
+11/5/25, 12:56 - Anurag Basistha: statement basically
+11/5/25, 12:56 - Anurag Basistha: thats the entire paper
+11/5/25, 12:56 - Anurag Basistha: hamara jo goodness score hai
+11/5/25, 12:56 - Anurag Basistha: aur willingness score hai
+11/5/25, 12:56 - Anurag Basistha: dono ko conflict edge se map krke
+11/5/25, 12:57 - Anurag Basistha: kam krde
+11/5/25, 12:57 - Anurag Basistha: due to time conflicts etc
+11/5/25, 12:57 - Anurag Basistha: there u go dont need to read entire paper i read it for u
+11/5/25, 12:57 - Anurag Basistha: itna to ho jaega na
+11/5/25, 12:57 - Akshit CSD: But how are we supposed to match times 
+Thats just extra parameters
+11/5/25, 12:57 - Akshit CSD: Because we aren't deciding concretely on the Timings
+11/5/25, 12:57 - Anurag Basistha: hmmm
+11/5/25, 12:58 - Anurag Basistha: <Media omitted>
+11/5/25, 12:58 - Anurag Basistha: while assigning
+11/5/25, 12:58 - Akshit CSD: I mean 
+Because if a person does one task 
+Then they might not wanna do the other task as well
+11/5/25, 12:58 - Anurag Basistha: no i mean when we map
+11/5/25, 12:58 - Anurag Basistha: the need
+11/5/25, 12:58 - Anurag Basistha: to the person solving
+11/5/25, 12:58 - Anurag Basistha: obviously we need to look at
+a) how urgent the need is
+11/5/25, 12:58 - Anurag Basistha: depending on that define a time period within which it needs to be solved
+11/5/25, 12:58 - Anurag Basistha: b) the person solving how free is he available
+11/5/25, 12:58 - Anurag Basistha: call krta hu rul
+11/5/25, 13:05 - Akshit CSD: @⁨Anurag Basistha⁩ Aisa kar 
+Most important is the PPT 
+without a Doubt 
+
+
+Tu PPT ka saara content bana Ek baar 
+Jo kuch tujhe theek lag raha 
+I will make teh model and edit the ppt according to that
+11/5/25, 13:06 - Anurag Basistha: @⁨Akshit CSD⁩ @⁨Agrim Upadhyay Roommate⁩ 
+i think we should modify it to account for time constraint as in
+the volunteers we should kinda ask somehow what time they free want to contribute
+and also consider their expertise how helpful they are on qualifications or something
+and the problem we have received we can pass it to a language model to decide its priority high low mid
+based on that priority (which should be displayed and changable by the frontend admin manually too)
+we should update our willingness and other whatever metrics we are using
+
+coz urgent stuff should prefer ppl available quick even if they are not really an expert
+and later stuff slow stuff we should prefer experts when they free
+11/5/25, 13:06 - Anurag Basistha: okay
+kabtak chahite abhi sochra thha lunch jaun
+11/5/25, 13:06 - Akshit CSD: College or Home ?
+11/5/25, 13:06 - Anurag Basistha: home
+11/5/25, 13:06 - Anurag Basistha: hun
+11/5/25, 13:06 - Anurag Basistha: abhi toh
+11/5/25, 13:06 - Akshit CSD: Jidhar bhi hai 
+Like jitna jaldi 
+ASAP
+11/5/25, 13:06 - Anurag Basistha: submission kab h
+11/5/25, 13:06 - Anurag Basistha: lunch krke bhejda hun
+11/5/25, 13:06 - Akshit CSD: I think 8
+11/5/25, 13:07 - Anurag Basistha: 8 is presentation ig -
+11/5/25, 13:07 - Anurag Basistha: 6 30 submission tha
+11/5/25, 13:07 - Anurag Basistha: nd also lets do what akshit said
+if volunteer has recently done some duty we should lower their willingness score priority
+and give chance to some other volunteer
+
+otherwise theres a good chance they wont accept be tired
+11/5/25, 13:08 - Anurag Basistha: toh just more parameters in the mapping eqn basically but
+very nice parameters to have
+11/5/25, 13:08 - Anurag Basistha: we should display some metric of this per volunteer in frontend
+expertise level and
+recently jobbed when willingness level
+11/5/25, 13:08 - Anurag Basistha: and urgency of job level of
+11/5/25, 13:08 - Anurag Basistha: c
+11/5/25, 13:12 - Akshit CSD: I am building a machine learning model that predicts which people are suitable for a given real-world project proposal.
+I need a synthetic but realistic dataset in CSV format with three files:
+
+✅ 1) proposals.csv
+
+Columns:
+
+proposal_id
+
+text (description of a small real-world engineering or social project)
+
+Create 50 unique proposals, spanning multiple domains:
+
+environmental engineering (river cleaning, waste management)
+
+water quality testing
+
+IoT sensor deployments
+
+GIS mapping
+
+renewable energy micro-projects
+
+community outreach & awareness
+
+policy & regulation studies
+
+app development or UX for civic tech
+
+Make each proposal 2–4 sentences and specific (mention tasks, constraints, goals).
+
+✅ 2) people.csv
+
+Columns:
+
+person_id
+
+name
+
+text (2–3 sentences describing their skills, coursework, project experience)
+
+willingness_eff (0.0–1.0)
+
+willingness_bias (0.0–1.0)
+
+Generate 40–60 people.
+Each person should have 4–8 skills but written naturally inside text, not as a list.
+Include diverse skill sets: hydrology, water testing, mechanical pumps, GIS, remote sensing, app development, data analysis, microbiology, safety management, policy, procurement, community outreach, documentation, machine learning, etc.
+
+Make willingness realistic:
+
+high: students passionate about the topic
+
+low: busy students or skills not aligned
+
+✅ 3) pairs.csv
+
+Columns:
+
+proposal_id
+
+person_id
+
+label (1 if the person is a good candidate for that proposal, 0 otherwise)
+
+For every proposal, label:
+
+3–6 positives (label = 1)
+
+6–10 negatives (label = 0), but they must be “hard negatives”: smart people, some overlap in skills, but still not a good match for the specific project.
+
+Very important:
+
+Ensure every proposal_id and person_id in pairs.csv exists in proposals.csv and people.csv.
+
+Make the labels realistic (it should not be random).
+
+Distribute willingness realistically: highly willing candidates should be more likely to be positive labels.
+
+✅ Output format (very important)
+
+Produce 3 CSVs, each in a clean code block:
+
+First block: proposals.csv
+Second block: people.csv
+Third block: pairs.csv
+
+Do not compress them or combine them.
+Make sure the CSVs have a header row and no trailing commas.
+11/5/25, 13:12 - Akshit CSD: @⁨Anurag Basistha⁩
+11/5/25, 13:13 - Akshit CSD: Give me training data boi
+11/5/25, 13:13 - Akshit CSD: Say to give atleast 150
+11/5/25, 13:13 - Agrim Upadhyay Roommate: <Media omitted>
+11/5/25, 13:14 - Akshit CSD: karta
+11/5/25, 13:14 - Akshit CSD: Tujhe aata ha ?? 
+Web dev waghera ?
+11/5/25, 13:15 - Agrim Upadhyay Roommate: translate vale mein ek dikkat hai translate to kar rha but ek google translate ka element popup ho rha when translated which i cant remove tried multiple times
+11/5/25, 13:15 - Agrim Upadhyay Roommate: aur vo dashboard cover kar rha
+11/5/25, 13:15 - Agrim Upadhyay Roommate: nope
+11/5/25, 13:17 - Akshit CSD: let me see what to do about it
+11/5/25, 13:25 - Agrim Upadhyay Roommate: Volunteer:
+
+Email: volunteer@test.com
+
+Password: password
+
+Coordinator:
+
+Email: coordinator@test.com
+
+Password: password
+11/5/25, 13:25 - Agrim Upadhyay Roommate: Test IDs
+11/5/25, 13:25 - Agrim Upadhyay Roommate: *accounts
+11/5/25, 14:13 - Anurag Basistha: why do u need translate
+keep it all regional na
+11/5/25, 14:14 - Anurag Basistha: we can use multilungual lms

@@ -1,0 +1,8 @@
+rank,team_ids,team_names,goodness,coverage,k_robustness,redundancy,set_size
+1,S1;S2;S5,Asha; Ravi; Kiran,0.4378,0.057,0.444,0.0,0.75
+2,S1;S2;S3,Asha; Ravi; Farida,0.4378,0.057,0.444,0.0,0.75
+3,S1;S2;S4,Asha; Ravi; Imran,0.4378,0.057,0.444,0.0,0.75
+4,S1;S3;S5,Asha; Farida; Kiran,0.38,0.048,0.222,0.0,0.75
+5,S1;S4;S5,Asha; Imran; Kiran,0.38,0.048,0.222,0.0,0.75
+6,S3;S2;S5,Farida; Ravi; Kiran,0.3703,0.009,0.222,0.0,0.75
+7,S4;S2;S5,Imran; Ravi; Kiran,0.3703,0.009,0.222,0.0,0.75
